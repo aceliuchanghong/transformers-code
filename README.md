@@ -207,8 +207,3 @@
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zyds/transformers-code&type=Date)](https://star-history.com/#zyds/transformers-code&Date)
-
-
-# 请作者喝杯奶茶
-
-![](./imgs/wx.jpg)
