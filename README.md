@@ -1,4 +1,3 @@
-![手把手带你实战Transformers](./imgs/1.png)
 
 ### 测试环境
 
